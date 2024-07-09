@@ -1,0 +1,24 @@
+.navbar {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0;
+    z-index: 1020; /* Ensure it stays on top */
+    background-color: black; /* Ensure background color covers entire navbar */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    width: 100%; /* Ensure it spans the full width */
+}
+
+  
+  .logo {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .navbar .nav-link, .navbar .navbar-brand, .navbar .dropdown-toggle {
+    color: white !important;
+  }
+  
+  .navbar .nav-link:hover, .navbar .navbar-brand:hover, .navbar .dropdown-toggle:hover {
+    color: #A2CFB3 !important; /* Adjust hover color as needed */
+  }  

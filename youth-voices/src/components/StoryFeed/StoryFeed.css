@@ -1,0 +1,65 @@
+.story-feed .story-card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+  }
+  
+  .story-feed .story-card-header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  .story-feed .author-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 1rem;
+  }
+  
+  .story-feed .card-body {
+    padding: 1rem;
+  }
+  
+  .story-feed .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .story-feed .card-subtitle {
+    color: #a2cfb3; /* Use theme color */
+  }
+  
+  .story-feed .read-more {
+    color: #28a745; /* Green color for the link */
+    text-decoration: none;
+  }
+  
+  .story-feed .read-more:hover {
+    text-decoration: underline;
+  }
+  
+  .story-feed .story-actions {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .story-feed .action-button {
+    margin-right: 0.5rem;
+  }
+  
+  .story-feed .action-button:last-child {
+    margin-right: 0;
+  }
+  
+  .story-feed .btn-outline-secondary {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  
+  .story-feed .btn-outline-secondary:hover {
+    background-color: #c49494;
+    color: #ffffff;
+  }
+  
