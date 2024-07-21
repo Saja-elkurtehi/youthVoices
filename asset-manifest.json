@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youthVoices/static/css/main.ff8bbd8c.css",
-    "main.js": "/youthVoices/static/js/main.598e121b.js",
+    "main.js": "/youthVoices/static/js/main.e2d47b7a.js",
     "static/media/story2.jpg": "/youthVoices/static/media/story2.75470afcd38008f9a540.jpg",
     "static/media/story1.jpg": "/youthVoices/static/media/story1.2929ce491920e588edc1.jpg",
     "static/media/logo.png": "/youthVoices/static/media/logo.bd0647c51bc81b11f22a.png",
@@ -16,10 +16,10 @@
     "static/media/about-us.jpg": "/youthVoices/static/media/about-us.e79862f7a5227db20f49.jpg",
     "index.html": "/youthVoices/index.html",
     "main.ff8bbd8c.css.map": "/youthVoices/static/css/main.ff8bbd8c.css.map",
-    "main.598e121b.js.map": "/youthVoices/static/js/main.598e121b.js.map"
+    "main.e2d47b7a.js.map": "/youthVoices/static/js/main.e2d47b7a.js.map"
   },
   "entrypoints": [
     "static/css/main.ff8bbd8c.css",
-    "static/js/main.598e121b.js"
+    "static/js/main.e2d47b7a.js"
   ]
 }
