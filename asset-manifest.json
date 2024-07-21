@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youthVoices/static/css/main.ff8bbd8c.css",
-    "main.js": "/youthVoices/static/js/main.e2d47b7a.js",
+    "main.css": "/youthVoices/static/css/main.decbeddf.css",
+    "main.js": "/youthVoices/static/js/main.904efcca.js",
     "static/media/story2.jpg": "/youthVoices/static/media/story2.75470afcd38008f9a540.jpg",
     "static/media/story1.jpg": "/youthVoices/static/media/story1.2929ce491920e588edc1.jpg",
     "static/media/logo.png": "/youthVoices/static/media/logo.bd0647c51bc81b11f22a.png",
@@ -15,11 +15,11 @@
     "static/media/cardImage2.jpg": "/youthVoices/static/media/cardImage2.220ee36322b7ee1fcb2c.jpg",
     "static/media/about-us.jpg": "/youthVoices/static/media/about-us.e79862f7a5227db20f49.jpg",
     "index.html": "/youthVoices/index.html",
-    "main.ff8bbd8c.css.map": "/youthVoices/static/css/main.ff8bbd8c.css.map",
-    "main.e2d47b7a.js.map": "/youthVoices/static/js/main.e2d47b7a.js.map"
+    "main.decbeddf.css.map": "/youthVoices/static/css/main.decbeddf.css.map",
+    "main.904efcca.js.map": "/youthVoices/static/js/main.904efcca.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff8bbd8c.css",
-    "static/js/main.e2d47b7a.js"
+    "static/css/main.decbeddf.css",
+    "static/js/main.904efcca.js"
   ]
 }
